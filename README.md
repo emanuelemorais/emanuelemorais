@@ -21,7 +21,6 @@
         <a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" height="40" /></a> 
         <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI" height="40" /></a>  
         <a href="https://flutter.dev/?gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQiA_9u5BhCUARIsABbMSPtQ5mY8tACqBdctzTB9Y7Ibxf29Bmbty-URyVN_Q22Eu6ArMDOPvOQaAnCHEALw_wcB" target="_blank"><img style="margin: 10px" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" alt="Flutter" height="40" /></a> 
-        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="TailwindCSS" height="30" /></a> 
       </div>
     </td>
     <td valign="top" width="30%">
