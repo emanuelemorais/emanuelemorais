@@ -1,6 +1,17 @@
 ![Gif personal informations](Header.gif)
 
+I am a Computer Engineering student at Inteli - Institute of Technology and Leadership, with a strong enthusiasm for technology and a great passion for solving complex problems.
+
+During my undergraduate studies, which follow a project-based learning approach, I gained hands-on experience developing real-world solutions for major companies such as Ambev, Azul Linhas Aéreas, and Gerdau. Additionally, through extracurricular activities, I participated in and won over ten national and international hackathons in the fields of blockchain and technology, showcasing my ability to innovate and excel in challenging and competitive environments.
+
+My journey in project development has provided me with extensive practical experience in various areas, including web development, blockchain and Web3 systems, cloud architectures, predictive maintenance systems and IoT systems.
+
+I am always looking for new challenges that combine innovation, technology, and real-world impact, contributing to transforming ideas into valuable solutions.
+
 ## Toolbox
+
+I have technical knowledge and experience with the following technologies: 
+
 <table width="100%">
   <tr>
     <td valign="top" width="30%">
