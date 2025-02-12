@@ -8,7 +8,6 @@ My journey in project development has provided me with extensive practical exper
 
 I am always looking for new challenges that combine innovation, technology, and real-world impact, contributing to transforming ideas into valuable solutions.
 
-a
 
 ## Toolbox
 
